@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as o,a as s}from"./index-507813dc.js";const a={},d={class:"container mt-5 mb-5"},t=s("div",{class:"row"},[s("div",{class:"col-md-12"},[s("div",{class:"card border-0 rounded shadow"},[s("div",{class:"card-body"}," HALAMAN POST EDIT ")])])],-1),r=[t];function n(_,i){return e(),o("div",d,r)}const m=c(a,[["render",n]]);export{m as default};
