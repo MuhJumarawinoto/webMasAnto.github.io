@@ -17,7 +17,7 @@
           <li><a href="index.html#hero" class="active">Beranda</a></li>
           <li><a href="index.html#about">Tentang Kami</a></li>
           <li><a href="index.html#features">Layanan</a></li>
-          <li><a href="index.html#portfolio">Dokumentasi</a></li>
+          <li><a href="index.html#portfolio">Dokumentasi</a></li> 
           <li><a href="index.html#team">Anggota</a></li>
           <li><a href="index.html#contact">Kontak Kami</a></li>
         </ul>
